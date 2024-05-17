@@ -1,0 +1,5 @@
+
+#ifndef KOLEJKA_A_QUEUE_H
+#define KOLEJKA_A_QUEUE_H
+
+#endif //KOLEJKA_A_QUEUE_H
